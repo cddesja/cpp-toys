@@ -4,7 +4,7 @@ This respository is just a collection of toy C++ programs that are created based
 To run the programs on a Mac, you must specific the C++ standard of 2011 or later. I just use 2014. For example, to run hello_world.cpp. 
 
 ```
-c++ -std="c++14" hello_world.cpp
+g++-5 -std="c++14" hello_world.cpp
 ```
 
 Below is my C++ environment.
